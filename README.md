@@ -3,7 +3,8 @@
 - 👋 Hello, I'm Netiwit
 - 👀 I'm looking for a software dev position.
 - 🌱 My passion is with @reactjs, @nextjs, @typescript, @vuejs, @nuxtjs,<br/>
-  @java, @springboot, @Golang, @nodejs, @mysql, @postgresql, @sqlite
+  @java, @springboot, @golang, @nodejs, @mysql, @postgresql, @sqlite
+- 🧑🏻‍💻 I'm challenging myself to commit to github per day.
 - 📫 How to reach me ... netiwit.nk@gmail.com
 
 ## Github Profile
