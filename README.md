@@ -1,12 +1,10 @@
-### Hi I'm Netiwit👋
+### Hi there👋
 
-> Software Dev, I am currently learning DevOps
-
-## Languages-and-Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vue,vuetify,bootstrap,html,css,vscode,github,figma,tailwind,git,java" />
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mysql,postman" /><br>
-<br/>
+- 👋 Hello, I'm Netiwit
+- 👀 I'm looking for a software dev position.
+- 🌱 My passion is with @reactjs, @nextjs, @typescript, @vuejs, @nuxtjs, 
+  @java, @springboot, @nodejs, @mysql, @postgresql, @sqlite
+- 📫 How to reach me ... netiwit.nk@gmail.com
 
 ## Github Profile
 
