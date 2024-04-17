@@ -2,16 +2,11 @@
 
 > Software Dev, I am currently learning DevOps
 
+## Languages-and-Tools
 <br/>
-<hr/>
-<h2 align="center">⚒️ Languages-and-Tools</h2>
+<img src="https://skillicons.dev/icons?i=react,vue,vuetify,bootstrap,html,css,vscode,github,figma,tailwind,git,java" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mysql,postman" /><br>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,vuetify,bootstrap,html,css,vscode,github,figma,tailwind,git,java" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mysql,postman" /><br>
-</div>
-<br/>
-<hr/>
 
 ## Github Profile
 
