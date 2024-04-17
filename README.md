@@ -2,8 +2,8 @@
 
 - 👋 Hello, I'm Netiwit
 - 👀 I'm looking for a software dev position.
-- 🌱 My passion is with @reactjs, @nextjs, @typescript, @vuejs, @nuxtjs, 
-  @java, @springboot, @nodejs, @mysql, @postgresql, @sqlite
+- 🌱 My passion is with @reactjs, @nextjs, @typescript, @vuejs, @nuxtjs,<br/>
+  @java, @springboot, @Golang, @nodejs, @mysql, @postgresql, @sqlite
 - 📫 How to reach me ... netiwit.nk@gmail.com
 
 ## Github Profile
