@@ -2,11 +2,8 @@
 
 > Software Dev, I am currently learning DevOps
 
-
-## Github Profile
-
+<br/>
 <hr/>
- 
 <h2 align="center">⚒️ Languages-and-Tools</h2>
 <br/>
 <div align="center">
